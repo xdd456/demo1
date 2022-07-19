@@ -1,2 +1,2 @@
-server:
-  port: 9001
+config:
+  version: 9001
